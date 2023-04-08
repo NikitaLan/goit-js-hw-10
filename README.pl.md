@@ -18,7 +18,7 @@ skonfigurowania dodatkowych opcji [zobacz dokumentację](https://parceljs.org/)
 8. Przejdź w przeglądarce pod adres
    [http://localhost:1234](http://localhost:1234). Ta strona będzie się
    automatycznie odświeżać po dokonaniu zmian w plikach projektu.
-
+..
 ## Pliki i foldery
 
 - Wszystkie partiale plików stylów powinny znajdować się w folderze `src/sass` i
